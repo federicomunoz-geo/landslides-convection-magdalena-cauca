@@ -107,12 +107,15 @@ All the figures below are regenerated from the CSV files in `data/` by
 
 ## How to run
 
+Requires Python 3.10 or newer (tested with 3.13 on Windows).
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Regenerate every figure from the included data (runs in seconds)
+# Regenerate the result figures from the included data (about 1 minute;
+# the lithology map also needs the shapefile in data/external/)
 python scripts/make_figures.py
 
 # Association, convective percentiles and CHIRPS precipitation with the included data
@@ -131,20 +134,20 @@ by two days whose rainfall differs by 0.0001 mm. The original server run took ho
 calls. The Python version runs in about 10 seconds on a laptop.
 
 The original CDO method is still available with `--precip-backend cdo`. It needs
-[CDO](https://code.mpimet.mpg.de/projects/cdo) (Linux/macOS or WSL) and the cropped NetCDF
+[CDO](https://anaconda.org/conda-forge/cdo) (Linux/macOS or WSL) and the cropped NetCDF
 files.
 
 ## Data
 
 | Dataset | Source | Included |
 |---|---|---|
-| Landslide inventory | [GEOHAZARDS geoviewer](https://geohazards.com.co/), Universidad Nacional de Colombia (Medellín), cleaned for this study | ✅ `data/raw/` |
+| Landslide inventory | [GEOHAZARDS geoviewer](https://geohazards.com.co/), Universidad Nacional de Colombia (Medellín), cleaned for this study. The file has 366 records (2011–2024); the 357 from 2011–2023 are used | ✅ `data/raw/` |
 | Deep convective events | Derived from GOES-13 (2011–2017) and GOES-16 (2018–2023) IR imagery, following [Hernández-Deckers (2022)](https://doi.org/10.1002/qj.4208) | ✅ `data/raw/` |
 | Integrated result table | Output of this project (3 days, 50 km) | ✅ `data/processed/` |
 | Daily precipitation within 10 km of each landslide | Extracted from [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps) (0.05°) by `src/chirps_extract.py` | ✅ `data/processed/` (3 MB) |
-| Daily precipitation, raw | [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps) global daily files 2011–2023 (~14 GB) | ❌ download from source |
+| Daily precipitation, raw | [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps) global daily files 2011–2023 (~14 GB), [direct download](https://data.chc.ucsb.edu/products/CHIRPS/v2.0/global_daily/netcdf/p05/) | ❌ download from source |
 | Hydrogeological units | Cárdenas Giraldo (2022), [UNAL repository](https://repositorio.unal.edu.co/handle/unal/82871) | ❌ |
-| DEM / slope | IGAC SRTM 30 m DEM, [Colombia en Mapas](https://www.colombiaenmapas.gov.co/) | ❌ |
+| DEM / slope | IGAC SRTM 30 m DEM, [Colombia en Mapas](https://www.colombiaenmapas.gov.co/); slope raster derived from it (~38 m pixels) | ❌ |
 
 Convective event definition: brightness temperature < 235 K, with at least one pixel
 < 210 K and a drop of ≥ 50 K in two hours (box 1°N–11.5°N, 77.5°W–71.75°W).

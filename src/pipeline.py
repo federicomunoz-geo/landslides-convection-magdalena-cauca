@@ -51,7 +51,7 @@ def parse_args():
     p.add_argument("--chirps-dir", default=config.CHIRPS_DIR, type=Path)
     p.add_argument("--lithology", default=config.LITHOLOGY_SHP, type=Path)
     p.add_argument("--slope", default=config.SLOPE_TIF, type=Path)
-    p.add_argument("--skip-precip", action="store_true", help="skip CHIRPS steps (needs CDO + NetCDF)")
+    p.add_argument("--skip-precip", action="store_true", help="skip the CHIRPS precipitation step")
     p.add_argument("--skip-geology", action="store_true", help="skip lithology and slope steps")
     p.add_argument("--out", type=Path, default=None)
     a = p.parse_args()
@@ -59,6 +59,18 @@ def parse_args():
         p.error("--start must be earlier than or equal to --end")
     if a.days < 0 or a.radius <= 0:
         p.error("--days must be >= 0 and --radius > 0")
+
+    # Check every input before starting, so the run never fails halfway
+    needed = [a.landslides, a.events]
+    if not a.skip_precip:
+        needed.append(a.chirps_series if a.precip_backend == "python" else a.chirps_dir)
+    if not a.skip_geology:
+        needed += [a.lithology, a.slope]
+    missing = [str(f) for f in needed if not Path(f).exists()]
+    if missing:
+        p.error("missing input file(s):\n  " + "\n  ".join(missing) +
+                "\nSee data/external/README.md, or skip those steps with "
+                "--skip-geology / --skip-precip.")
     return a
 
 

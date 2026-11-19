@@ -97,6 +97,13 @@ def main():
     ap.add_argument("--out", type=Path, default=config.CHIRPS_SERIES_CSV)
     a = ap.parse_args()
 
+    missing = [chirps_file(a.chirps_dir, y).name for y in config.CLIMATOLOGY_YEARS
+               if not chirps_file(a.chirps_dir, y).is_file()]
+    if missing:
+        ap.error(f"{len(missing)} CHIRPS file(s) not found in {a.chirps_dir}: {', '.join(missing)}\n"
+                 "Download them from https://data.chc.ucsb.edu/products/CHIRPS/v2.0/global_daily/netcdf/p05/ "
+                 "or point to their folder with --chirps-dir.")
+
     points = pd.read_csv(a.results)[["Fecha", "Norte", "Este"]]
     series = extract_series(points, a.chirps_dir, config.CLIMATOLOGY_YEARS, a.radius)
     series.index.name = "date"

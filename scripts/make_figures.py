@@ -269,8 +269,9 @@ def main():
     if config.LITHOLOGY_SHP.is_file():
         from geology import group_areas
         fig03_lithology_map(config.LITHOLOGY_SHP, res)
-        areas = group_areas(config.LITHOLOGY_SHP, "EPSG:3857")        # same CRS as the thesis
-        true_areas = group_areas(config.LITHOLOGY_SHP, "EPSG:9377")   # equal-area CRS
+        # Rounded like LITHO_AREA_1000KM2 so the outputs are identical with or without the shapefile
+        areas = group_areas(config.LITHOLOGY_SHP, "EPSG:3857").round(2)       # same CRS as the thesis
+        true_areas = group_areas(config.LITHOLOGY_SHP, "EPSG:9377").round(2)  # equal-area CRS
         lithology_table(res, true_areas).round(2).to_csv(
             config.DATA_PROCESSED / "lithology_summary_equal_area.csv")
     else:

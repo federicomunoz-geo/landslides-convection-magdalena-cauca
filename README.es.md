@@ -108,12 +108,15 @@ originales de la tesis, en español, están en [`figures/thesis/`](figures/thesi
 
 ## Cómo ejecutarlo
 
+Requiere Python 3.10 o superior (probado con 3.13 en Windows).
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Generar todas las figuras con los datos incluidos (tarda segundos)
+# Generar las figuras de resultados con los datos incluidos (cerca de 1 minuto;
+# el mapa litológico también requiere el shapefile en data/external/)
 python scripts/make_figures.py
 
 # Asociación, percentiles convectivos y precipitación CHIRPS con los datos incluidos
@@ -133,19 +136,19 @@ servidor tomaba horas de llamadas a CDO. La versión en Python corre en unos 10 
 un portátil.
 
 El método original con CDO sigue disponible con `--precip-backend cdo`. Requiere
-[CDO](https://code.mpimet.mpg.de/projects/cdo) (Linux/macOS o WSL) y los NetCDF recortados.
+[CDO](https://anaconda.org/conda-forge/cdo) (Linux/macOS o WSL) y los NetCDF recortados.
 
 ## Datos
 
 | Base de datos | Fuente | Incluida |
 |---|---|---|
-| Inventario de deslizamientos | [Geovisor GEOHAZARDS](https://geohazards.com.co/), Universidad Nacional de Colombia (Medellín), depurado para este estudio | ✅ `data/raw/` |
+| Inventario de deslizamientos | [Geovisor GEOHAZARDS](https://geohazards.com.co/), Universidad Nacional de Colombia (Medellín), depurado para este estudio. El archivo tiene 366 registros (2011–2024); se usan los 357 de 2011–2023 | ✅ `data/raw/` |
 | Eventos de convección profunda | Derivados de imágenes IR de GOES-13 (2011–2017) y GOES-16 (2018–2023), siguiendo a [Hernández-Deckers (2022)](https://doi.org/10.1002/qj.4208) | ✅ `data/raw/` |
 | Tabla integrada de resultados | Salida de este proyecto (3 días, 50 km) | ✅ `data/processed/` |
 | Precipitación diaria a 10 km de cada deslizamiento | Extraída de [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps) (0,05°) con `src/chirps_extract.py` | ✅ `data/processed/` (3 MB) |
-| Precipitación diaria, original | Archivos diarios globales de [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps), 2011–2023 (~14 GB) | ❌ descargar de la fuente |
+| Precipitación diaria, original | Archivos diarios globales de [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps), 2011–2023 (~14 GB), [descarga directa](https://data.chc.ucsb.edu/products/CHIRPS/v2.0/global_daily/netcdf/p05/) | ❌ descargar de la fuente |
 | Unidades hidrogeológicas | Cárdenas Giraldo (2022), [repositorio UNAL](https://repositorio.unal.edu.co/handle/unal/82871) | ❌ |
-| DEM / pendiente | DEM SRTM 30 m del IGAC, [Colombia en Mapas](https://www.colombiaenmapas.gov.co/) | ❌ |
+| DEM / pendiente | DEM SRTM 30 m del IGAC, [Colombia en Mapas](https://www.colombiaenmapas.gov.co/); ráster de pendientes derivado de él (píxeles de ~38 m) | ❌ |
 
 Definición de evento convectivo: temperatura de brillo < 235 K, con al menos un píxel
 < 210 K y un descenso de ≥ 50 K en dos horas (área 1°N–11,5°N, 77,5°W–71,75°W).
