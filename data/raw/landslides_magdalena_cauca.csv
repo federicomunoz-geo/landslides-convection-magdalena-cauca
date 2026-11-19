@@ -1,0 +1,367 @@
+fid,bd,id,Tipo,Subtipo,Fecha,Detonante,Departament,Municipio,Incertidumb,Norte,Este,Fallecidos
+1,col,1623,Landslide,,2012-05-02,Rainfall,Huila,Isnos,Low,1.95,-76.16,1
+2,col,1908,Landslide,,2012-10-05,Unknown,Huila,Isnos,Low,1.87,-76.21,5
+3,col,2224,Landslide,,2013-12-22,Unknown,Huila,Isnos,Mid,1.930026,-76.2145388,1
+4,col,1780,Landslide,,2015-10-12,Unknown,Huila,San Agustin,Mid,1.8799122,-76.2702092,1
+5,col,1720,Landslide,,2015-02-04,Unknown,Huila,Pitalito,High,1.8563309,-76.0461611,1
+6,col,1848,Debris Flow,,2019-05-28,Rainfall,Huila,La Argentina,Mid,2.198444,-75.978781,2
+7,col,1568,Landslide,,2011-12-05,Unknown,Huila,Tarqui,Mid,2.1131628,-75.8251059,1
+8,col,1157,Landslide,,2011-12-11,Unknown,Huila,Guadalupe,Mid,2.025561,-75.758955,1
+9,col,1479,Landslide,,2019-11-21,Unknown,Cauca,Guadalupe,Mid,2.025561,-75.758955,1
+10,col,1945,Landslide,,2011-11-30,Unknown,Huila,Guadalupe,Mid,2.025561,-75.758955,1
+11,col,1588,Landslide,,2014-05-10,Unknown,Huila,Suaza,Mid,1.94117,-75.7998099,1
+12,col,1847,Landslide,,2013-07-17,Unknown,Huila,Suaza,Low,1.97,-75.82,4
+13,col,2043,Landslide,,2013-07-07,Unknown,Huila,Suaza,Low,1.98,-75.8,4
+14,col,1824,Landslide,,2011-04-29,Unknown,Huila,Timana,Low,1.98,-75.95,1
+15,col,2325,Landslide,,2012-01-24,Rainfall,Huila,Garzon,Mid,2.2120897,-75.5753087,2
+16,col,1512,Landslide,,2011-12-05,Unknown,Cauca,Jambalo,Mid,2.777846,-76.324327,2
+17,col,1657,Landslide,,2014-03-12,Rainfall,Huila,Palermo,Mid,2.8720385,-75.5962754,1
+18,col,1907,Landslide,,2013-07-24,Unknown,Huila,Iquira,Low,2.65,-75.64,5
+19,col,1572,Landslide,,2012-04-20,Unknown,Cauca,Inza,High,2.549538,-76.0652453,2
+20,col,2392,Landslide,,2022-06-18,Rainfall,Cauca,Paez,Mid,2.6543,-75.9927,8
+21,col,1536,Landslide,,2013-05-16,Unknown,Huila,Tesalia,Mid,2.58771,-75.75531,1
+22,col,1453,Landslide,,2013-12-12,Unknown,Huila,Neiva,High,2.9344837,-75.2809001,4
+23,col,1717,Landslide,,2012-12-28,Unknown,Huila,Neiva,Mid,2.9344837,-75.2809001,4
+24,col,2292,Landslide,,2019-03-31,Unknown,Huila,Neiva,High,2.9344837,-75.2809001,2
+25,col,1654,Landslide,,2013-02-08,Unknown,Huila,Neiva,Low,2.92,-75.29,1
+26,col,1593,Landslide,,2013-06-10,Unknown,Huila,Rivera,Low,2.79,-75.26,2
+27,col,2032,Landslide,,2019-06-22,Rainfall,Huila,Algeciras,Mid,2.5246899,-75.3166263,2
+28,col,2358,Debris Flow,,2021-03-01,Rainfall,Huila,Rivera,mid,2.838,-75.232,3
+29,col,1646,Landslide,,2011-12-15,Unknown,Huila,Neiva,Mid,3.1249219,-75.5581218,1
+30,col,1425,Landslide,,2011-11-13,Unknown,Tolima,Chaparral,Low,3.76,-75.49,5
+31,col,2041,Landslide,,2019-03-16,Rainfall,Tolima,Chaparral,Mid,3.78485,-75.60916,2
+32,col,1902,Landslide,,2019-11-04,Rainfall,Tolima,Chaparral,Mid,3.7440073,-75.5742467,1
+33,col,1744,Landslide,,2012-01-26,Unknown,Tolima,San Antonio,Low,3.92,-75.5,1
+34,col,2366,Landslide,,2021-06-10,Rainfall,Tolima,San Antonio,High,3.913,-75.48,1
+35,col,1353,Landslide,,2011-11-14,Unknown,Tolima,San Antonio,Low,3.89,-75.51,1
+36,col,1771,Landslide,,2012-01-26,Unknown,Tolima,San Antonio,Low,3.88,-75.53,9
+37,col,1571,Landslide,,2011-11-13,Unknown,Tolima,Ataco,Low,3.44,-75.47,1
+38,col,2227,Landslide,,2014-11-17,Unknown,Tolima,Purificacion,High,3.8582823,-74.9303957,1
+39,col,2333,Landslide,,2011-11-13,Unknown,Tolima,Cunday,Low,4.01,-74.67,19
+40,col,2222,Landslide,,2013-04-24,Unknown,Tolima,Rovira,High,4.2400403,-75.2394404,1
+41,col,1489,Landslide,,2012-01-18,Unknown,Cundinamarca,Girardot,Low,4.3,-74.81,1
+42,col,1782,Landslide,,2016-12-10,Unknown,Cundinamarca,Bogota D.C.,Low,4.28,-74.22,2
+43,col,1784,Landslide,,2015-10-15,Unknown,Tolima,Melgar,Mid,4.20327,-74.641589,1
+44,col,1702,Landslide,,2011-02-20,Unknown,Cundinamarca,Bogota D.C.,Mid,4.5379222,-74.1379427,1
+45,col,2264,Landslide,,2012-01-23,Unknown,Cundinamarca,Soacha,Low,4.58,-74.22,2
+46,col,2401,Landslide,,2022-11-11,Rainfall,Cundinamarca,La Calera,High,4.72,-73.968,2
+47,col,2075,Landslide,,2011-03-08,Rainfall,Cundinamarca,Bogota D.C.,Mid,4.751966,-74.07682,1
+48,col,1390,Landslide,,2012-04-12,Unknown,Cundinamarca,Bogota D.C.,High,4.7109886,-74.072092,1
+49,col,1705,Landslide,,2011-07-28,Unknown,Cundinamarca,Bogota D.C.,Mid,4.7200049,-74.0336844,1
+50,col,1714,Landslide,,2011-04-15,Unknown,Cundinamarca,Bojaca,Low,4.73,-74.34,1
+51,col,1728,Landslide,,2015-05-20,Unknown,Cundinamarca,Ubate,Mid,4.73418,-74.2411,1
+52,col,1389,Landslide,,2012-02-13,Unknown,Cundinamarca,Cucunuba,Mid,5.2502123,-73.7661063,1
+53,col,2340,Landslide,,2012-01-23,Unknown,Cundinamarca,Suesca,Low,5.1,-73.8,1
+54,col,1301,Landslide,,2011-04-20,Unknown,Cundinamarca,Villapinzon,Mid,4.8253199,-73.9264,1
+55,col,1950,Landslide,,2012-01-14,Unknown,Cundinamarca,Chia,Low,4.85,-74.05,1
+56,col,1442,Landslide,,2012-01-18,Unknown,Cundinamarca,La Peña,Low,5.2,-74.4,1
+57,col,2074,Landslide,,2012-01-23,Unknown,Cundinamarca,Sasaima,Low,4.97,-74.43,3
+58,col,2105,Landslide,,2014-10-07,Unknown,Cundinamarca,Guaduas,Low,5.06,-74.59,4
+59,col,2210,Landslide,,2012-02-03,Unknown,Tolima,Ambalema,Low,4.78,-74.77,1
+60,col,2311,Landslide,,2011-11-12,Unknown,Tolima,Ambalema,Low,4.83,-74.8,1
+61,col,1413,Landslide,,2011-11-13,Unknown,Tolima,Cajamarca,Low,4.41,-75.5,1
+62,col,1428,Landslide,,2012-01-24,Unknown,Tolima,Cajamarca,Low,4.42,-75.5,7
+63,col,2328,Landslide,,2011-11-13,Unknown,Tolima,Cajamarca,Low,4.45,-75.51,1
+64,col,1371,Landslide,,2012-01-24,Unknown,Tolima,Cajamarca,Low,4.44,-75.5,4
+65,col,2073,Landslide,,2011-11-13,Unknown,Tolima,Cajamarca,Low,4.44,-75.5,4
+66,col,880,Landslide,,2011-11-15,Unknown,Tolima,Ibague,Low,4.49,-75.25,1
+67,col,1972,Landslide,,2013-07-10,Anthropogenic,Tolima,Ibague,High,4.444676,-75.242438,1
+68,col,1447,Landslide,,2019-05-28,Rainfall,Tolima,Ibague,Mid,4.4686404,-75.2842004,1
+69,col,1686,Landslide,,2011-11-15,Unknown,Tolima,Ibague,Low,4.46,-75.28,3
+70,col,1461,Landslide,,2014-04-27,Unknown,Tolima,Ibague,Low,4.41,-75.27,1
+71,col,909,Landslide,,2011-11-15,Unknown,Tolima,Ibague,Low,4.47,-75.21,6
+72,col,2018,Landslide,,2011-11-15,Unknown,Tolima,Ibague,Low,4.46,-75.23,1
+73,col,1454,Landslide,,2020-08-21,Unknown,Tolima,Ibague,Low,4.43,-75.34,2
+74,col,2195,Landslide,,2011-11-15,Unknown,Tolima,Ibague,Low,4.37,-75.27,2
+75,col,2218,Landslide,,2011-11-20,Rainfall,Tolima,Ibague,Mid,4.5556149,-75.3258296,10
+76,col,2096,Debris Flow,,2020-08-21,Unknown,Tolima,Ibague,Low,4.44,-75.39,1
+77,col,1760,Landslide,,2011-08-22,Unknown,Tolima,Cajamarca,High,4.441792,-75.426844,1
+78,col,1678,Landslide,,2012-04-20,Unknown,Tolima,Ibague,Low,4.46,-75.13,2
+79,col,1604,Landslide,,2012-01-24,Unknown,Tolima,Alvarado,Low,4.57,-74.96,1
+80,col,1746,Landslide,,2011-11-12,Unknown,Tolima,Alvarado,Low,4.57,-74.98,1
+81,col,1992,Landslide,,2011-11-12,Unknown,Tolima,Anzoategui,Low,4.64,-75.19,7
+82,col,876,Landslide,,2011-11-12,Unknown,Tolima,Anzoategui,Low,4.58,-75.1,7
+83,col,2180,Landslide,,2012-01-24,Unknown,Tolima,Anzoategui,Low,4.63,-75.1,9
+84,col,1906,Landslide,,2014-03-02,Unknown,Tolima,Mariquita,Low,5.2,-74.89,1
+85,col,2102,Landslide,,2014-02-28,Unknown,Tolima,San Sebastian de Mariquita,Mid,5.199505,-74.886835,1
+86,col,2308,Landslide,,2011-10-05,Unknown,Tolima,Lerida,Low,4.84,-74.85,1
+87,col,1726,Landslide,,2014-03-26,Unknown,Tolima,Santa Isabel,Mid,4.713974,-75.0972892,1
+88,col,1951,Landslide,,2012-04-26,Unknown,Tolima,Fresno,High,5.1520138,-75.036312,1
+89,col,1596,Landslide,,2012-04-27,Unknown,Tolima,Fresno,Low,5.16,-75.04,1
+90,col,2099,Landslide,,2014-07-08,Unknown,Tolima,Villahermosa,Mid,5.035242,-75.1134744,1
+91,col,1727,Landslide,,2018-09-27,Rainfall,Tolima,Villa hermosa,High,5.029564,-75.1168256,1
+92,col,2252,Landslide,,2011-12-04,Rainfall,Tolima,Herveo,Mid,5.0795648,-75.1786148,7
+93,col,1562,Landslide,,2011-10-03,Unknown,Tolima,Herveo,Low,5.08,-75.24,12
+94,col,2382,Landslide,,2022-02-24,Unknown,Caldas,Manzanares,Mid,5.199,-75.14,1
+95,col,2275,Landslide,,2012-02-07,Unknown,Caldas,Manzanares,Low,5.21,-75.17,2
+96,col,2031,Landslide,,2014-05-25,Unknown,Tolima,Herveo,Mid,5.1334958,-75.1939474,1
+97,col,1725,Landslide,,2014-10-27,Unknown,Tolima,Libano,Mid,4.9224602,-75.0642244,1
+98,col,1789,Landslide,,2013-10-20,Unknown,Tolima,Planadas,High,3.1207486,-75.8533954,1
+99,col,1368,Landslide,,2011-11-13,Unknown,Tolima,Chaparral,Low,3.73,-75.69,1
+100,col,2207,Landslide,,2011-04-20,Unknown,Tolima,Planadas,Mid,4.0125,-75.55693,1
+101,col,1838,Landslide,,2012-01-26,Unknown,Tolima,Roncesvalles,Low,4.05,-75.6,1
+102,col,2365,Landslide,,2021-05-17,Rainfall,Caldas,Marulanda,High,5.285,-75.26,3
+103,col,1721,Landslide,,2018-10-10,Rainfall,Caldas,Marquetalia,High,5.300064,-75.051548,12
+104,col,1372,Landslide,,2012-01-15,Unknown,Caldas,Marquetalia,Low,5.3,-75.05,1
+105,col,1836,Landslide,,2012-02-08,Unknown,Caldas,Manzanares,Low,5.23,-75.15,1
+106,col,2380,Landslide,,2021-12-20,Rainfall,Caldas,Marquetalia,Mid,5.312,-75.045,2
+107,col,2052,Landslide,,2011-09-21,Unknown,Caldas,La Dorada,High,5.472709,-74.667984,1
+108,col,1429,Landslide,,2011-12-16,Unknown,Caldas,Samana,Mid,5.5812,-74.92938,5
+109,col,1656,Landslide,,2013-05-27,Anthropogenic,Caldas,Samana,High,5.413047,-74.9914639,1
+110,col,1374,Landslide,,2012-01-20,Unknown,Caldas,Samana,Low,5.41,-74.99,6
+111,col,1535,Landslide,,2015-11-01,Rainfall,Caldas,Samana,Mid,5.43484,-75.02611,2
+112,col,2335,Landslide,,2012-02-27,Unknown,Caldas,Pensilvania,Low,5.45,-75.18,2
+113,col,1566,Landslide,,2011-07-13,Unknown,Antioquia,Segovia,Mid,5.67592,-75.23728,1
+114,col,2067,Landslide,,2011-01-19,Rainfall,Antioquia,Nariño,High,5.611015,-75.174162,3
+115,col,1465,Landslide,,2018-05-10,Rainfall,Antioquia,Unknown,Mid,5.66302,-75.17247,1
+116,col,1903,Landslide,,2018-08-29,Anthropogenic,Antioquia,Taraza,Mid,5.66633,-75.15904,3
+117,col,1688,Landslide,,2011-09-25,Rainfall,Antioquia,Angostura,Mid,5.67845,-75.12956,7
+118,col,1695,Landslide,,2011-12-29,Unknown,Caldas,Samana,Mid,5.5251683,-75.0419117,3
+119,col,2272,Landslide,,2011-03-18,Unknown,Antioquia,Argelia,Low,5.73,-75.14,1
+120,col,1954,Landslide,,2011-03-16,Rainfall,Antioquia,Argelia,Mid,5.7311441,-75.1428188,1
+121,col,1534,Landslide,,2015-05-21,Unknown,Boyaca,Muzo,Mid,5.5112241,-74.1083813,1
+122,col,1897,Landslide,,2013-09-10,Unknown,Boyaca,Quipama,Low,5.52,-74.18,3
+123,col,1515,Landslide,,2012-05-18,Unknown,Cundinamarca,Yacopi,Low,5.46,-74.34,1
+124,col,2371,Landslide,,2021-10-02,Rainfall,Antioquia,San Luis,Low,5.994,-74.932,1
+125,col,2100,Landslide,,2012-11-04,Rainfall,Antioquia,San Luis,High,6.0432523,-74.9945045,2
+126,col,2361,Debris Flow,,2021-05-25,Rainfall,Antioquia,San Luis,High,6.043,-74.994,2
+127,col,2412,Debris Flow,,2023-07-07,Rainfall,Antioquia,San Luis,High,6.0435,-74.993891,2
+128,col,1367,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.27,-75.56,1
+129,col,2377,Debris Flow,,2021-10-21,Rainfall,Antioquia,Medellin,Mid,6.27,-75.56,1
+130,col,1582,Landslide,,2011-11-22,Unknown,Antioquia,Medellin,Low,6.28,-75.57,1
+131,col,2238,Landslide,,2011-04-26,Unknown,Antioquia,Medellin,Mid,6.2931868,-75.541724,1
+132,col,1738,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.3,-75.54,4
+133,col,1961,Landslide,,2011-11-16,Unknown,Antioquia,Medellin,Low,6.3,-75.54,4
+134,col,1821,Landslide,,2011-08-28,Unknown,Antioquia,Bello,Mid,6.3092011,-75.5473213,1
+135,col,2029,Landslide,,2013-08-12,Rainfall,Antioquia,Medellin,High,6.2476376,-75.5658153,2
+136,col,2076,Landslide,,2011-11-15,Unknown,Antioquia,Medellin,Low,6.25,-75.56,2
+137,col,2209,Landslide,,2011-11-16,Unknown,Antioquia,Medellin,Low,6.25,-75.56,2
+138,col,2045,Landslide,,2014-06-08,Rainfall,Antioquia,Yarumal,Mid,6.237129,-75.5560544,1
+139,col,2367,Landslide,,2021-06-10,Rainfall,Antioquia,Medellin,Mid,6.249,-75.55,1
+140,col,1584,Landslide,,2011-04-09,Unknown,Antioquia,Medellin,Mid,6.2350279,-75.5269421,4
+141,col,1586,Landslide,,2011-11-23,Unknown,Antioquia,Medellin,Low,6.24,-75.55,1
+142,col,1981,Landslide,,2011-11-16,Unknown,Antioquia,Medellin,Low,6.3,-75.57,2
+143,col,1408,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.26,-75.55,1
+144,col,1605,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.26,-75.55,1
+145,col,2298,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.26,-75.55,1
+146,col,1756,Landslide,,2012-01-21,Unknown,Antioquia,Medellin,Low,6.24,-75.58,18
+147,col,2288,Landslide,,2018-05-31,Other cause,Antioquia,Unknown,Mid,6.216512,-75.569137,1
+148,col,2153,Landslide,,2018-04-18,Unknown,Antioquia,Guarne,Mid,6.2884215,-75.4697436,5
+149,col,1655,Debris Flow,,2014-10-29,Rainfall,Antioquia,Bello,Low,6.35,-75.56,1
+150,col,2403,Landslide,,2022-10-23,Rainfall,Antioquia,Bello,Mid,6.305,-75.531,1
+151,col,1905,Landslide,,2016-10-25,Rainfall,Antioquia,Copacabana,Low,6.319805,-75.489672,16
+152,col,2306,Landslide,,2012-01-22,Unknown,Antioquia,Copacabana,Low,6.36,-75.5,7
+153,col,2420,Landslide,,2024-02-13,Unknown,Antioquia,Barbosa,Low,6.393597697,-75.44214719,1
+154,col,2360,Landslide,,2021-02-28,Rainfall,Antioquia,El Retiro,mid,6.058,-75.503,1
+155,col,2387,Landslide,,2022-04-19,Unknown,Antioquia,Santa Barbara,High,5.874,-75.566,1
+156,col,2385,Landslide,,2022-03-31,Rainfall,Antioquia,La Ceja,Mid,5.952,-75.442,1
+157,col,2267,Landslide,,2011-08-29,Rainfall,Antioquia,Montebello,Mid,5.9277,-75.48382,1
+158,col,2370,Debris Flow,,2021-07-16,Rainfall,Antioquia,Montebello,High,5.946,-75.524,1
+159,col,2079,Landslide,,2011-08-22,Unknown,Antioquia,Montebello,High,5.9277638,-75.5160235,1
+160,col,2376,Landslide,,2021-11-26,Rainfall,Antioquia,La Ceja,Low,6.034222,-75.439972,1
+161,col,1591,Landslide,,2018-11-08,Anthropogenic,Antioquia,Rionegro,Mid,6.1406917,-75.3775164,2
+162,col,1988,Landslide,,2011-11-15,Unknown,Antioquia,Marinilla,Low,6.22,-75.27,1
+163,col,1446,Landslide,,2016-04-02,Unknown,Antioquia,Guatape,Low,6.22,-75.18,2
+164,col,1644,Landslide,,2012-04-11,Unknown,Antioquia,Granada,High,6.139621,-75.183586,3
+165,col,2418,Debris Flow,,2023-10-14,Rainfall,Antioquia,Granada,Low,6.13655,-75.1746,1
+166,col,1533,Landslide,,2014-11-12,Rainfall,Antioquia,Donmatias,High,6.485702,-75.393831,2
+167,col,1581,Landslide,,2011-12-05,Rainfall,Antioquia,Barbosa,Mid,6.4154397,-75.3029757,1
+168,col,2404,Debris Flow,,2022-09-23,Rainfall,Antioquia,Barbosa,Mid,6.455,-75.334,1
+169,col,1774,Landslide,,2011-04-21,Unknown,Antioquia,Barbosa,Low,6.44,-75.33,2
+170,col,1471,Landslide,,2013-06-17,Unknown,Antioquia,Alejandria,High,6.3758292,-75.141737,1
+171,col,2369,Debris Flow,,2021-07-16,Rainfall,Antioquia,Santo Domingo,Mid,6.44,-75.166,2
+172,col,2090,Landslide,,2013-11-14,Unknown,Antioquia,Santo Domingo,High,6.4714987,-75.1644735,5
+173,col,2416,Landslide,,2023-09-10,Rainfall,Antioquia,Santo Domingo,Mid,6.54539,-75.21662,3
+174,col,1384,Landslide,,2011-04-13,Unknown,Antioquia,San Roque,Low,6.48,-75.02,4
+175,col,1823,Landslide,,2011-04-24,Rainfall,Antioquia,San Roque,High,6.485831,-75.019623,4
+176,col,2409,Debris Flow,,2023-06-12,Rainfall,Antioquia,Cisneros,High,6.53824,-75.089083,1
+177,col,1577,Landslide,,2011-11-29,Unknown,Antioquia,Barbosa,Mid,6.11548,-75.05984,2
+178,col,1844,Landslide,,2013-08-11,Rainfall,Antioquia,Cocorna,Low,6.06,-75.18,2
+179,col,2383,Landslide,,2022-02-28,Rainfall,Antioquia,Cocorna,Mid,6.057,-75.186,1
+180,col,1540,Landslide,,2015-02-22,Unknown,Antioquia,Yali,Mid,6.6745512,-74.8425445,2
+181,col,2408,Debris Flow,,2023-04-29,Rainfall,Antioquia,Yali,High,6.66895,-74.842052,2
+182,col,1448,Landslide,,2015-02-11,Anthropogenic,Antioquia,Amalfi,Mid,6.895627,-75.0143824,1
+183,col,2390,Landslide,,2022-05-30,Rainfall,Antioquia,Puerto Berrio,Mid,6.478,-74.409,1
+184,col,2190,Landslide,,2011-05-17,Unknown,Boyaca,Maripi,High,5.549623,-74.0046909,2
+185,col,1989,Landslide,,2011-04-20,Unknown,Santander,Florian,High,5.803248,-73.970703,10
+186,col,2342,Landslide,,2011-04-14,Rainfall,Santander,Florian,Mid,5.803248,-73.970703,11
+187,col,2344,Landslide,,2011-06-02,Unknown,Cundinamarca,Lenguazaque,High,5.3060578,-73.7121453,1
+188,col,2240,Landslide,,2012-01-19,Unknown,Santander,Cimitarra,Low,6.31,-73.96,1
+189,col,2268,Landslide,,2012-01-18,Unknown,Santander,Bolivar,Low,5.99,-73.77,2
+190,col,1835,Landslide,,2011-04-12,Unknown,Santander,El Carmen de Chucur├¡,Mid,6.6985408,-73.5108283,1
+191,col,2062,Landslide,,2011-05-15,Unknown,Santander,Barrancabermeja,Mid,7.0592688,-73.8647839,2
+192,col,2128,Landslide,,2011-07-28,Unknown,Santander,Barrancabermeja,Mid,7.050254167,-73.84734054,2
+193,col,2410,Debris Flow,,2023-06-13,Rainfall,Antioquia,Segovia,High,7.079221,-74.700898,1
+194,col,2230,Landslide,,2015-05-28,Unknown,Antioquia,Segovia,High,7.0797435,-74.7004374,1
+195,col,2402,Landslide,,2022-10-26,Rainfall,Antioquia,Remedios,High,7.028,-74.693,1
+196,col,1617,Landslide,,2012-02-07,Unknown,Antioquia,Segovia,Mid,7.0281273,-74.6936069,1
+197,col,1587,Landslide,,2018-10-20,Unknown,Santander,Barrncabermeja,High,7.0617085,-73.8519319,9
+198,col,2322,Landslide,,2011-06-23,Unknown,Santander,Lebrija,High,7.1899943,-73.3001233,2
+199,col,1452,Landslide,,2014-03-12,Unknown,Santander,Bucaramanga,Low,7.12,-73.16,4
+200,col,1594,Landslide,,2014-04-09,Unknown,Santander,Bucaramanga,Low,7.09,-73.14,1
+201,col,1626,Landslide,,2012-03-15,Unknown,Santander,Bucaramanga,Mid,7.1212833,-73.1185148,7
+202,col,1404,Landslide,,2012-01-18,Unknown,Santander,Bucaramanga,Low,7.11,-73.12,1
+203,col,2019,Landslide,,2012-01-19,Unknown,Santander,Bucaramanga,Low,7.11,-73.12,1
+204,col,2226,Landslide,,2013-02-06,Unknown,Santander,Bucaramanga,High,7.119349,-73.1227416,2
+205,col,1635,Landslide,,2012-01-19,Unknown,Santander,Bucaramanga,Low,7.13,-73.13,7
+206,col,1912,Landslide,,2012-01-19,Unknown,Santander,Bucaramanga,Low,7.13,-73.13,1
+207,col,2093,Landslide,,2019-02-14,Anthropogenic,Santander,Malaga,Mid,7.1237845,-73.0751813,2
+208,col,2038,Debris Flow,,2020-02-23,Rainfall,Santander,Piedecuesta,Low,6.96,-72.98,5
+209,col,1719,Landslide,,2012-12-24,Unknown,Santander,Piedecuesta,High,6.991539,-73.053998,1
+210,col,2357,Debris Flow,,2020-07-07,Rainfall,Santander,Piedecuesta,Mid,7.0,-73.03,2
+211,col,1561,Landslide,,2011-04-12,Unknown,Santander,Charta,Mid,7.2805846,-72.9698416,1
+212,col,2314,Landslide,,2011-06-23,Unknown,Santander,Matanza,High,7.32278,-73.015958,1
+213,col,1965,Landslide,,2011-12-12,Unknown,Santander,Tona,Mid,7.21338,-73.01497,1
+214,col,2330,Landslide,,2011-12-06,Rainfall,Santander,Tona,Mid,7.1851,-72.984554,6
+215,col,1765,Landslide,,2011-10-14,Unknown,Norte de Santander,La Esperanza,High,7.639571,-73.327532,1
+216,col,1665,Landslide,,2011-11-28,Rainfall,Santander,Rionegro,Mid,7.2926945,-73.1416653,3
+217,col,1403,Landslide,,2011-06-09,Unknown,Bolivar,Santa Rosa del Sur,Low,8.04,-74.17,2
+218,col,1608,Landslide,,2011-06-04,Unknown,Bolivar,Santa Rosa del Sur,Mid,7.9630638,-74.0509748,2
+219,col,1470,Landslide,,2015-07-10,Unknown,Boyaca,Motavita,Mid,5.577547,-73.368186,1
+220,col,1661,Landslide,,2011-04-22,Unknown,Boyaca,Cucaita,Low,5.54,-73.45,1
+221,col,1631,Landslide,,2012-02-04,Unknown,Boyaca,Tunja,Low,5.53,-73.37,1
+222,col,1373,Landslide,,2012-04-20,Unknown,Boyaca,Soraca,Mid,5.5007074,-73.3329194,2
+223,col,1407,Landslide,,2012-04-21,Unknown,Boyaca,Soraca,Low,5.5,-73.32,1
+224,col,1955,Landslide,,2011-05-03,Unknown,Boyaca,Samaca,Low,5.49,-73.49,2
+225,col,1900,Landslide,,2015-12-02,Unknown,Boyaca,Moniquira,Low,5.87,-73.57,2
+226,col,2101,Landslide,,2015-06-24,Unknown,Boyaca,Umbita,Mid,5.8667,-73.24997,2
+227,col,1791,Landslide,,2012-02-01,Unknown,Boyaca,Paipa,Mid,5.7476959,-73.1102746,1
+228,col,1732,Landslide,,2011-06-14,Unknown,Santander,Chima,High,6.3419111,-73.3728547,1
+229,col,2151,Landslide,,2013-10-17,Unknown,Boyaca,Socota,Mid,6.4643099,-73.1043641,1
+230,col,1660,Landslide,,2013-07-29,Anthropogenic,Boyaca,Sogamosos,Mid,5.7231804,-72.9275232,1
+231,col,2095,Landslide,,2013-07-30,Unknown,Boyaca,Sogamoso,Low,5.72,-72.93,1
+232,col,2104,Landslide,,2014-11-03,Unknown,Boyaca,Tasco,Mid,5.910047,-72.7823686,1
+233,col,2212,Landslide,,2012-05-08,Unknown,Boyaca,Gameza,Mid,5.802567,-72.80632,1
+234,col,1518,Landslide,,2011-03-08,Unknown,Boyaca,Jerico,Mid,6.14603,-72.570654,1
+235,col,1946,Landslide,,2011-06-23,Unknown,Santander,Macaravita,High,6.5064209,-72.5932425,1
+236,col,2280,Landslide,,2012-02-04,Unknown,Santander,Molagavita,Mid,6.6392335,-72.8013789,2
+237,col,1475,Landslide,,2020-07-01,Unknown,Antioquia,Taraza,Low,7.614,-75.4846,4
+238,col,2037,Landslide,,2013-06-14,Unknown,Bolivar,Montecristo,Low,8.3,-74.47,1
+239,col,2154,Landslide,,2015-09-15,Unknown,Cauca,El Tambo,Mid,2.411958,-76.6996563,1
+240,col,1478,Landslide,,2013-05-16,Unknown,Cauca,Popayan,Low,2.44,-76.63,2
+241,col,1578,Landslide,,2011-12-18,Unknown,Cauca,Purace,Mid,2.3806502,-76.4555856,2
+242,col,1455,Debris Flow,,2017-03-10,Unknown,Cauca,El Tambo,Low,2.44,-76.81,6
+243,col,2035,Landslide,,2013-10-03,Unknown,Cauca,Caloto,Low,2.98,-76.4,1
+244,col,1445,Landslide,,2014-04-29,Unknown,Cauca,Santander de Quilichao,Mid,3.0070942,-76.4823064,12
+245,col,1659,Landslide,,2014-03-11,Unknown,Valle del Cauca,Cali,Low,3.47,-76.48,1
+246,col,1896,Landslide,,2014-03-12,Unknown,Valle del Cauca,Palmira,Mid,3.5379718,-76.2971657,2
+247,col,2223,Landslide,,2012-09-28,Rainfall,Valle del Cauca,Bolivar,High,4.338626,-76.186763,3
+248,col,2375,Landslide,,2021-11-17,Rainfall,Valle del Cauca,Bolivar,High,4.338,-76.186,2
+249,col,1416,Landslide,,2011-11-29,Rainfall,Risaralda,La Celia,Mid,5.003233,-76.003424,1
+250,col,1633,Landslide,,2012-04-11,Unknown,Valle del Cauca,Obando,Mid,4.6221835,-76.0281531,1
+251,col,2091,Landslide,,2014-10-28,Unknown,Valle del Cauca,El Cerrito,Mid,3.684084,-76.312996,1
+252,col,2046,Landslide,,2014-03-11,Unknown,Valle del Cauca,Palmira,Mid,3.6036,-76.14609,2
+253,col,1457,Landslide,,2013-06-25,Anthropogenic,Risaralda,Pereira,High,4.8087174,-75.690601,1
+254,col,1466,Landslide,,2013-06-24,Unknown,Risaralda,Pereira,High,4.8087174,-75.690601,1
+255,col,1777,Landslide,,2012-01-24,Unknown,Risaralda,Pereira,Low,4.81,-75.69,1
+256,col,2229,Landslide,,2018-12-02,Rainfall,Quindio,Calarca,Mid,4.5245441,-75.6356915,6
+257,col,1532,Landslide,,2015-06-15,Unknown,Quindio,Armenia,Mid,4.5139164,-75.7133642,1
+258,col,2173,Landslide,,2012-03-19,Unknown,Quindio,Armenia,Low,4.53,-75.71,2
+259,col,1477,Landslide,,2013-11-28,Unknown,Quindio,Armenia,High,4.5350004,-75.6756888,1
+260,col,2378,Landslide,,2021-11-01,Rainfall,Quindio,Armenia,Mid,4.53,-75.699,1
+261,col,1449,Landslide,,2015-01-07,Unknown,Quindio,Armenia,Mid,4.5513199,-75.6583799,2
+262,col,1606,Landslide,,2011-11-04,Rainfall,Quindio,Calarca,Mid,4.5315984,-75.6495533,4
+263,col,2246,Landslide,,2012-01-24,Unknown,Quindio,Calarca,Low,4.53,-75.65,4
+264,col,1787,Landslide,,2013-12-22,Unknown,Quindio,Quindio,Mid,4.12056,-75.82669,1
+265,col,1500,Landslide,,2011-11-04,Rainfall,Caldas,Manizales,Mid,5.0619336,-75.5046431,48
+266,col,1474,Landslide,,2013-11-06,Unknown,Caldas,Manizales,High,5.0629743,-75.5027698,1
+267,col,1476,Landslide,,2013-02-14,Unknown,Caldas,Manizales,High,5.0629743,-75.5027698,1
+268,col,1694,Landslide,,2011-04-12,Rainfall,Caldas,Manizales,Low,5.07,-75.52,20
+269,col,1876,Landslide,,2012-01-20,Unknown,Caldas,Manizales,Low,5.07,-75.52,1
+270,col,2155,Landslide,,2013-11-28,Unknown,Caldas,Manizales,Mid,5.0771837,-75.5138397,3
+271,col,1590,Landslide,,2014-03-08,Unknown,Caldas,Manizales,Low,5.09,-75.53,2
+272,col,2354,Landslide,,2020-02-23,Rainfall,Caldas,Chinchina,Low,4.97,-75.61,5
+273,col,2294,Landslide,,2020-02-24,Rainfall,Caldas,Chinchina,High,4.983452,-75.606333,5
+274,col,1722,Debris Flow,,2019-04-03,Rainfall,Caldas,Neira,Mid,5.1366885,-75.4969694,2
+275,col,2381,Landslide,,2022-02-07,Rainfall,Risaralda,Pereira,Low,4.821349,-75.699815,16
+276,col,1718,Landslide,,2019-06-10,Rainfall,Risaralda,Pereira,Mid,4.8330962,-75.6957612,4
+277,col,1723,Landslide,,2012-12-19,Rainfall,Risaralda,Dosquebradas,Mid,4.8532623,-75.6763276,2
+278,col,1641,Landslide,,2011-04-14,Rainfall,Risaralda,Dosquebradas,High,4.8318256,-75.6805678,1
+279,col,2040,Landslide,,2019-05-26,Rainfall,Risaralda,Dosquebradas,Mid,4.8497953,-75.6520358,1
+280,col,2234,Landslide,,2014-11-19,Unknown,Risaralda,Quinchia,Low,5.37,-75.73,3
+281,col,1460,Landslide,,2015-01-20,Unknown,Risaralda,Quinchia,High,5.3411191,-75.7304756,1
+282,col,1786,Landslide,,2015-05-20,Unknown,Risaralda,Quinchia,Mid,5.3453272,-75.7363268,1
+283,col,1539,Landslide,,2012-11-21,Unknown,Risaralda,Apia,Mid,5.106663,-75.940865,2
+284,col,2295,Landslide,,2011-05-16,Unknown,Risaralda,Mistrato,High,5.2962025,-75.8815555,1
+285,col,1463,Debris Flow,,2016-04-11,Unknown,Risaralda,Guatica,Low,5.32,-75.8,1
+286,col,1716,Landslide,,2017-01-17,Unknown,Caldas,Neira,Low,5.16,-75.53,3
+287,col,1818,Landslide,,2011-12-06,Unknown,Caldas,Neira,Mid,5.1664404,-75.5205472,1
+288,col,2232,Debris Flow,,2019-04-05,Unknown,Caldas,Manizales,Mid,5.143669,-75.499592,3
+289,col,1899,Landslide,,2019-05-05,Anthropogenic,Caldas,Marmato,Mid,5.474716,-75.601051,1
+290,col,2364,Landslide,,2021-05-17,Rainfall,Caldas,Aranzazu,Mid,5.321,-75.492,2
+291,col,2373,Landslide,,2021-11-03,Rainfall,Caldas,Aranzazu,High,5.271,-75.491,1
+292,col,1729,Landslide,,2011-03-08,Unknown,Caldas,Pacora,Low,5.53,-75.46,2
+293,col,2281,Landslide,,2011-04-11,Unknown,Caldas,Pacora,Low,5.53,-75.46,1
+294,col,2127,Landslide,,2011-12-15,Rainfall,Caldas,Riosucio,Mid,5.464267,-75.6933918,9
+295,col,2094,Landslide,,2014-11-17,Unknown,Caldas,Riosucio,High,5.4206839,-75.705388,3
+296,col,1619,Landslide,,2012-05-11,Unknown,Antioquia,La Pintada,Low,5.7,-75.6,3
+297,col,2422,Landslide,,2024-06-17,Unknown,Antioquia,Andes,mid,5.737379574,-75.87057768,1
+298,col,2142,Landslide,,2011-04-17,Rainfall,Antioquia,Andes,High,5.656421,-75.879654,2
+299,col,2201,Landslide,,2011-04-09,Unknown,Antioquia,Andes,Low,5.66,-75.88,2
+300,col,2421,Landslide,,2024-05-10,Unknown,Antioquia,Amaga,Low,6.003807631,-75.80007528,2
+301,col,2432,Landslide,Rock Fall,2024-08-05,Unknown,Antioquia,Salgar,Low,5.939515831,-75.94238675,1
+302,col,1537,Debris Flow,,2015-05-17,Unknown,Antioquia,Salgar,Low,5.96,-75.98,104
+303,col,2424,Debris Flow,,2024-06-24,Rainfall,Antioquia,Venecia,Low,5.965941201,-75.73467495,10
+304,col,1974,Landslide,,2014-11-24,Anthropogenic,Antioquia,Venecia,High,5.963962,-75.735417,1
+305,col,2363,Landslide,,2021-06-05,Rainfall,Antioquia,Venecia,High,5.963584,-75.735137,2
+306,col,2394,Debris Flow,,2022-06-25,Rainfall,Antioquia,Betania,High,5.735,-75.919,1
+307,col,2396,Landslide,,2022-07-13,Rainfall,Antioquia,Andes,Low,5.69547,-75.938833,3
+308,col,2389,Landslide,,2022-05-17,Rainfall,Antioquia,Santa Fe de Antioquia,High,6.56,-75.83,4
+309,col,2034,Landslide,,2014-05-07,Rainfall,Antioquia,Liborina,Mid,6.67745,-75.811744,1
+310,col,2415,Debris Flow,,2023-10-08,Rainfall,Antioquia,Liborina,High,6.76582,-75.74903,1
+311,col,1843,Landslide,,2015-03-09,Unknown,Antioquia,Medellin,Mid,6.2735058,-75.5873438,1
+312,col,2063,Landslide,,2011-11-15,Unknown,Antioquia,Medellin,Low,6.26,-75.6,1
+313,col,1734,Landslide,,2011-11-23,Unknown,Antioquia,Medellin,Low,6.27,-75.61,1
+314,col,2200,Landslide,,2011-12-09,Unknown,Antioquia,Medellin,Low,6.28,-75.6,3
+315,col,2379,Debris Flow,,2021-11-30,Rainfall,Antioquia,Medellin,Mid,6.277,-75.596,1
+316,col,2427,Landslide,,2024-06-28,Rainfall,Antioquia,Medellin,Low,6.274248374,-75.61835538,1
+317,col,1464,Landslide,,2015-08-27,Unknown,Antioquia,Medellin,Low,6.21,-75.6,2
+318,col,1867,Landslide,,2011-11-16,Unknown,Antioquia,Medellin,Low,6.24,-75.62,1
+319,col,2186,Landslide,,2012-01-22,Unknown,Antioquia,Envigado,Low,6.17,-75.59,1
+320,col,1841,Landslide,,2012-01-22,Unknown,Antioquia,Itagui,Low,6.18,-75.61,3
+321,col,835,Landslide,,2011-11-15,Unknown,Antioquia,La Estrella,Low,6.14,-75.66,3
+322,col,2221,Landslide,,2011-11-24,Unknown,Antioquia,Medellin,Low,6.27,-75.63,1
+323,col,1516,Landslide,,2011-11-15,Unknown,Antioquia,Medellin,Low,6.26,-75.63,1
+324,col,1779,Landslide,,2011-11-16,Unknown,Antioquia,Medellin,Low,6.25,-75.63,3
+325,col,1624,Landslide,,2011-04-28,Rainfall,Antioquia,Barbosa,Mid,6.2546423,-75.6288101,2
+326,col,1570,Landslide,,2011-11-15,Unknown,Antioquia,Caldas,Low,6.06,-75.65,2
+327,col,1783,Landslide,,2015-11-11,Unknown,Antioquia,Amaga,Low,6.04,-75.72,2
+328,col,1410,Landslide,,2011-06-01,Unknown,Antioquia,Amaga,Mid,6.037113,-75.702277,1
+329,col,2225,Landslide,,2014-11-13,Unknown,Antioquia,Amaga,High,6.037113,-75.702277,2
+330,col,2009,Landslide,,2012-01-22,Unknown,Antioquia,Caldas,Low,6.07,-75.64,1
+331,col,1849,Landslide,,2013-10-28,Rainfall,Antioquia,Angelopolis,High,6.1113686,-75.709441,1
+332,col,2352,Landslide,,2019-12-18,Anthropogenic,Antioquia,Medellin,Low,6.18,-75.65,2
+333,col,2397,Landslide,,2022-07-12,Rainfall,Antioquia,Medellin,Mid,6.19366,-75.6576,2
+334,col,1952,Landslide,,2012-01-20,Unknown,Antioquia,Medellin,Low,6.19,-75.66,13
+335,col,2423,Landslide,,2024-06-23,Rainfall,Antioquia,Heliconia,mid,6.158347527,-75.7363343,1
+336,col,2393,Landslide,,2022-06-25,Rainfall,Antioquia,Heliconia,Low,6.212,-75.737,1
+337,col,1505,Landslide,,2012-01-20,Unknown,Antioquia,Medellin,Low,6.35,-75.7,1
+338,col,1840,Landslide,,2012-01-20,Unknown,Antioquia,Medellin,Low,6.35,-75.7,4
+339,col,2426,Landslide,,2024-06-24,Rainfall,Antioquia,Fredonia,mid,5.935496311,-75.69419739,3
+340,col,2398,Landslide,,2022-08-20,Rainfall,Antioquia,Yarumal,High,6.965,-75.418,1
+341,col,2399,Landslide,,2022-08-19,Rainfall,Antioquia,Betulia,High,6.113,-75.984,1
+342,col,2433,Landslide,Traslacional,2024-08-22,Rainfall,Antioquia,Betulia,Mid.,6.112904445,-75.98466394,1
+343,col,1462,Landslide,,2013-10-17,Anthropogenic,Antioquia,Buritica,Low,6.75,-75.92,3
+344,col,2042,Landslide,,2015-02-16,Unknown,Antioquia,Buritica,High,6.7192948,-75.9080161,1
+345,col,2044,Landslide,,2018-10-28,Unknown,Antioquia,Puerto Valdivia,Mid,7.2894767,-75.3939274,2
+346,col,1653,Landslide,,2012-06-21,Unknown,Antioquia,Valdivia,Low,7.38,-75.33,2
+347,col,2388,Landslide,,2022-04-28,Rainfall,Antioquia,Taraza,High,7.582,-75.4,1
+348,col,2010,Landslide,,2012-04-27,Unknown,Antioquia,Valdivia,Low,7.3,-75.39,2
+349,col,1444,Landslide,,2014-04-23,Unknown,Antioquia,Anori,Low,7.08,-75.15,1
+350,col,2407,Debris Flow,,2023-03-21,Rainfall,Antioquia,El Bagre,Mid,7.598294,-74.810341,1
+351,col,1456,Landslide,,2013-06-22,Unknown,Antioquia,Zaragoza,Low,7.49,-74.87,5
+352,col,2372,Landslide,,2021-10-28,Rainfall,Antioquia,Anori,Mid,7.383,-74.966,1
+353,col,2391,Landslide,,2022-06-18,Rainfall,Antioquia,Anori,Mid,7.383,-74.967,1
+354,col,2351,Landslide,,2018-09-13,Anthropogenic,Antioquia,Unknown,Mid,7.1986064,-75.3412179,2
+355,col,2097,Landslide,,2014-05-01,Unknown,Cauca,Santander de Quilichao,Low,3.03,-76.5,3
+356,col,1993,Landslide,,2012-08-21,Unknown,Valle del Cauca,Cali,Mid,3.463867,-76.5234993,1
+357,col,1845,Landslide,,2012-11-30,Rainfall,Valle del Cauca,Cali,Mid,3.3824754,-76.5601654,1
+358,col,1451,Debris Flow,,2016-11-30,Unknown,Valle del Cauca,Cali,Low,3.42,-76.55,6
+359,col,2359,Landslide,,2021-03-10,Unknown,Valle Del Cauca,Cali,mid,3.423,-76.556,2
+360,col,2362,Landslide,,2021-05-31,Rainfall,Antioquia,Campamento,High,6.979179,-75.297428,1
+361,col,1424,Landslide,,2012-04-20,Unknown,Antioquia,Carolina,High,6.7237546,-75.2811105,1
+362,col,1527,Landslide,,2012-04-20,Rainfall,Antioquia,Carolina,High,6.7237546,-75.2811105,1
+363,col,1881,Landslide,,2012-04-20,Unknown,Antioquia,Gomez Plata,High,6.6817889,-75.2197365,1
+364,col,2015,Landslide,,2011-10-16,Unknown,Cesar,Pueblo Bello,Mid,10.40873,-73.5913999,1
+365,col,2350,Landslide,,2014-10-06,Unknown,Magdalena,Fundación,Mid,10.47074,-73.87767,6
+366,col,1909,Landslide,,2015-03-04,Unknown,Atlantico,Malambo,Low,10.85,-74.77,2

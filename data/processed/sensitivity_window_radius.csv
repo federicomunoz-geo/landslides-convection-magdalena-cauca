@@ -1,0 +1,11 @@
+param,value,with_event,without_event
+days,1,82,275
+days,2,114,243
+days,3,137,220
+days,4,150,207
+days,5,164,193
+radius_km,5,6,351
+radius_km,10,19,338
+radius_km,20,48,309
+radius_km,50,137,220
+radius_km,100,253,104

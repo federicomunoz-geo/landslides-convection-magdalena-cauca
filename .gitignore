@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large external data (see README -> Data)
+data/external/*
+!data/external/README.md
+*.nc
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
